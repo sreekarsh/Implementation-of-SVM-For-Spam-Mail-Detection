@@ -67,7 +67,8 @@ accuracy
 ![image](https://github.com/sreekarsh/Implementation-of-SVM-For-Spam-Mail-Detection/assets/139841918/1051695e-06e2-4609-adf0-a8a4029d6da7)
 ![image](https://github.com/sreekarsh/Implementation-of-SVM-For-Spam-Mail-Detection/assets/139841918/47fa2328-6c4f-4969-8af8-12c537a33663)
 
-![image](https://github.com/sreekarsh/Implementation-of-SVM-For-Spam-Mail-Detection/assets/139841918/1b229be8-ac74-4244-afee-2e17587db8bf)
+![image](https://github.com/sreekarsh/Implementation-of-SVM-For-Spam-Mail-Detection/assets/139841918/b86ef749-15d1-43f3-b9f8-951ede301f30)
+
 ![image](https://github.com/sreekarsh/Implementation-of-SVM-For-Spam-Mail-Detection/assets/139841918/9792fa2b-a7e9-4a99-a2ec-d187264e05ce)
 
 
